@@ -1,0 +1,7 @@
+https://github.com/facebookresearch/llama/tree/main/llama
+
+https://github.com/sunkx109/llama/tree/main/llama
+
+https://github.com/mindspore-courses/step_into_llm/tree/master
+
+https://github.com/chenzomi12/DeepLearningSystem/tree/main

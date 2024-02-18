@@ -1,0 +1,11 @@
+https://github.com/openai/gpt-2/tree/master
+
+https://github.com/affjljoo3581/GPT2/tree/master
+
+https://github.com/graykode/gpt-2-Pytorch/tree/master
+
+https://github.com/graykode/nlp-tutorial/tree/master
+
+
+
+
